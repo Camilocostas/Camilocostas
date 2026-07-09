@@ -18,6 +18,7 @@ Vengo de un trasfondo poco común: soy Tecnólogo en Delineante de Arquitectura 
 - 🎯 Mi enfoque es backend con Laravel y APIs REST, complementado con React en el frontend.
 - 🤝 Me interesa colaborar en proyectos Full Stack que usen JavaScript, React, Laravel y bases de datos relacionales/no relacionales.
 - 📚 Estoy profundizando en despliegue técnico, gestión de backups y buenas prácticas ágiles (Scrum/Kanban).
+- 🧩 Mi base en lógica de programación empezó con Flowgorithm y Java (Apache NetBeans) — ahí aprendí POO, algoritmos y modularización antes de especializarme en el stack actual.
 
 ---
 
@@ -47,6 +48,11 @@ Vengo de un trasfondo poco común: soy Tecnólogo en Delineante de Arquitectura 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
+**Mobile (exposición práctica vía AppiFood)**
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+Manejo básico de Android Studio con Kotlin, Retrofit y Jetpack Compose en el módulo móvil de AppiFood. Mi enfoque principal en el proyecto fue el desarrollo web, por lo que este es un conocimiento de apoyo más que una especialidad — lo incluyo porque amplía el alcance de lo que puedo aportar en proyectos que integren web y móvil.
+
 ---
 
 ## 🚀 Proyecto destacado — AppiFood
@@ -69,18 +75,18 @@ Aplicación de entregas (web + móvil) enfocada en negocios locales de Popayán.
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Camilocostas&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Camilocostas&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Camilocostas&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Camilocostas&theme=dark)
 
 <!--
-Si las cards de arriba muestran "Error Fetching Resource", es un problema del servicio público
-(github-readme-stats.vercel.app suele saturarse), no de este README. Alternativas de respaldo:
+El streak stats de arriba ya NO depende de un servicio externo en vivo: se genera una vez al día
+mediante un GitHub Action (.github/workflows/streak-stats.yml) que guarda el SVG directamente en
+este repositorio, en profile/streak.svg. Mientras el Action no haya corrido al menos una vez,
+esa imagen no existirá todavía — ejecútalo manualmente la primera vez desde la pestaña Actions
+del repo (workflow_dispatch).
 
-- Stats extendidas: https://github-stats-extended.vercel.app/api?username=Camilocostas&theme=radical
-- Streak alternativo si demolab falla: https://github-readme-streak-stats-eight.vercel.app/?user=Camilocostas
-- Opción más robusta a futuro: generar las stats como SVG estático vía GitHub Actions
-  (no depende de un servicio externo en vivo). Ver: github.com/DenverCoder1/github-readme-streak-stats
+Si "GitHub Stats" (la card de arriba, aparte del streak) también falla, es un servicio distinto
+(github-stats-extended.vercel.app) y puede caerse de forma independiente. Alternativa:
+https://github-readme-stats.vercel.app/api?username=Camilocostas&show_icons=true&theme=dark
 -->
