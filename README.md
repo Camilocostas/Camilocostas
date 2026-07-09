@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy Cristian Camilo Acosta Prieto 👋
+# Hola, soy Camilo Acosta 👋
 
 ### Full Stack Developer — Backend Specialist | Laravel · React · REST APIs
 
