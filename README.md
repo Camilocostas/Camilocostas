@@ -69,8 +69,18 @@ Aplicación de entregas (web + móvil) enfocada en negocios locales de Popayán.
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Camilocostas&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Camilocostas&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Camilocostas&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Camilocostas&layout=compact&theme=dark&hide_border=true)
+
+<!--
+Si las cards de arriba muestran "Error Fetching Resource", es un problema del servicio público
+(github-readme-stats.vercel.app suele saturarse), no de este README. Alternativas de respaldo:
+
+- Stats extendidas: https://github-stats-extended.vercel.app/api?username=Camilocostas&theme=radical
+- Streak alternativo si demolab falla: https://github-readme-streak-stats-eight.vercel.app/?user=Camilocostas
+- Opción más robusta a futuro: generar las stats como SVG estático vía GitHub Actions
+  (no depende de un servicio externo en vivo). Ver: github.com/DenverCoder1/github-readme-streak-stats
+-->
