@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy Camilo Acosta 👋
+# Hola, soy Cristian Camilo Acosta Prieto 👋
 
 ### Full Stack Developer — Backend Specialist | Laravel · React · REST APIs
 
@@ -10,15 +10,18 @@
 
 ## 🧭 Sobre mí
 
-No soy solo un desarrollador; soy un diseñador de sistemas que evolucionó de los planos arquitectónicos al código. Mi ventaja competitiva es combinar la precisión técnica de la arquitectura con la agilidad del desarrollo Full Stack.
+- 💼 **Full Stack Developer con enfoque backend** — Laravel y APIs REST, complementado con React en el frontend.
+- 🏗️ Background en Delineación de Arquitectura e Ingeniería (Colegio Mayor del Cauca) — actualmente curso Tecnología en Análisis y Desarrollo de Software en el SENA (Popayán, Colombia).
+- 🔧 Trabajando en **AppiFood**, una app de entregas web y móvil para negocios locales en Popayán.
+- 🧪 Participando en la evaluación de mejoras como despliegue en AWS y funcionalidades apoyadas en IA para ese proyecto.
+- 🤝 Interesado en colaborar en proyectos Full Stack que usen JavaScript, React, Laravel y bases de datos relacionales/no relacionales.
+- 📚 Profundizando en despliegue técnico, gestión de backups y buenas prácticas ágiles (Scrum/Kanban).
 
-Vengo de un trasfondo poco común: soy Tecnólogo en Delineante de Arquitectura e Ingeniería (Colegio Mayor del Cauca) y actualmente curso Tecnología en Análisis y Desarrollo de Software en el SENA (Popayán, Colombia). Esa combinación me da una forma distinta de resolver problemas: pienso en estructura, dependencias y escalabilidad antes de escribir la primera línea de código.
+### 📖 Mi historia
 
-- 🔧 Actualmente trabajo en **AppiFood**, una app de entregas web y móvil para negocios locales en Popayán, que estoy auditando y llevando hacia calidad de lanzamiento (integración de IA, AWS).
-- 🎯 Mi enfoque es backend con Laravel y APIs REST, complementado con React en el frontend.
-- 🤝 Me interesa colaborar en proyectos Full Stack que usen JavaScript, React, Laravel y bases de datos relacionales/no relacionales.
-- 📚 Estoy profundizando en despliegue técnico, gestión de backups y buenas prácticas ágiles (Scrum/Kanban).
-- 🧩 Mi base en lógica de programación empezó con Flowgorithm y Java (Apache NetBeans) — ahí aprendí POO, algoritmos y modularización antes de especializarme en el stack actual.
+Vengo de un trasfondo poco común: pasé de diseñar planos arquitectónicos a diseñar sistemas de software. Esa base me da una forma distinta de resolver problemas — pienso en estructura, dependencias y escalabilidad antes de escribir la primera línea de código.
+
+Mi camino en lógica de programación empezó con Flowgorithm y Java (Apache NetBeans), donde aprendí POO, algoritmos y modularización, antes de especializarme en el stack que uso hoy.
 
 ---
 
@@ -57,11 +60,11 @@ Manejo básico de Android Studio con Kotlin, Retrofit y Jetpack Compose en el m�
 
 ## 🚀 Proyecto destacado — AppiFood
 
-Aplicación de entregas (web + móvil) enfocada en negocios locales de Popayán. Construida con **Laravel 10** en el backend y **React + Vite** en el frontend.
+AppiFood es una plataforma de entregas Full Stack construida con **Laravel** y **React**, enfocada en negocios locales de Popayán. Incluye APIs REST, autenticación, control de acceso por roles, e integraciones para restaurantes y clientes.
 
-- Diseño de API REST con relaciones Eloquent, traits reutilizables y arquitectura por scopes.
-- Resolución de un problema de CORS causado por el frontend apuntando al deployment de producción (Railway) en lugar del backend local — fix documentado y mergeado vía PR para el equipo.
-- En evaluación: integración de IA, migración a AWS, y viabilidad de una versión iOS nativa (Swift/SwiftUI).
+Durante el desarrollo resolví incidencias reales de producción, como un problema de configuración CORS entre el entorno local y el desplegado — documentado y mergeado vía Pull Request para el equipo.
+
+Actualmente en evaluación: despliegue en AWS, funcionalidades apoyadas en IA, y viabilidad de una versión iOS nativa (Swift/SwiftUI).
 
 ---
 
