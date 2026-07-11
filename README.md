@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hola, soy Cristian Camilo Acosta Prieto 👋
+# Hola, soy Camilo Acosta 👋
 
-### Full Stack Developer — Backend Specialist | Laravel · React · REST APIs
+### Full Stack Developer | Backend Focus | Laravel · React · REST APIs
 
 </div>
 
@@ -12,14 +12,14 @@
 
 - 💼 **Full Stack Developer con enfoque backend** — Laravel y APIs REST, complementado con React en el frontend.
 - 🏗️ Background en Delineación de Arquitectura e Ingeniería (Colegio Mayor del Cauca) — actualmente curso Tecnología en Análisis y Desarrollo de Software en el SENA (Popayán, Colombia).
-- 🔧 Trabajando en **AppiFood**, una app de entregas web y móvil para negocios locales en Popayán.
+- 🔧 Actualmente desarrollando y mejorando AppiFood, una plataforma que conecta restaurantes de Popayán (reconocidos y pequeños) con los habitantes de la ciudad.
 - 🧪 Participando en la evaluación de mejoras como despliegue en AWS y funcionalidades apoyadas en IA para ese proyecto.
 - 🤝 Interesado en colaborar en proyectos Full Stack que usen JavaScript, React, Laravel y bases de datos relacionales/no relacionales.
 - 📚 Profundizando en despliegue técnico, gestión de backups y buenas prácticas ágiles (Scrum/Kanban).
 
 ### 📖 Mi historia
 
-Vengo de un trasfondo poco común: pasé de diseñar planos arquitectónicos a diseñar sistemas de software. Esa base me da una forma distinta de resolver problemas — pienso en estructura, dependencias y escalabilidad antes de escribir la primera línea de código.
+Vengo de un trasfondo poco común: pasé de diseñar y modelar proyectos arquitectónicos a diseñar sistemas de software. Esa base me da una forma distinta de resolver problemas — pienso primero en la arquitectura, las dependencias y la escalabilidad antes de escribir código.
 
 Mi camino en lógica de programación empezó con Flowgorithm y Java (Apache NetBeans), donde aprendí POO, algoritmos y modularización, antes de especializarme en el stack que uso hoy.
 
@@ -60,7 +60,9 @@ Manejo básico de Android Studio con Kotlin, Retrofit y Jetpack Compose en el m�
 
 ## 🚀 Proyecto destacado — AppiFood
 
-AppiFood es una plataforma de entregas Full Stack construida con **Laravel** y **React**, enfocada en negocios locales de Popayán. Incluye APIs REST, autenticación, control de acceso por roles, e integraciones para restaurantes y clientes.
+AppiFood es una plataforma Full Stack construida con **Laravel** y **React** que conecta restaurantes de Popayán —tanto reconocidos como pequeños negocios locales— con los habitantes de la ciudad. Los restaurantes pueden registrarse y darse a conocer en la plataforma, mientras los usuarios exploran y descubren opciones cercanas.
+
+Incluye APIs REST, autenticación y control de acceso por roles (cliente, restaurante, administrador). La funcionalidad de domicilios/delivery quedó fuera del alcance por restricciones de tiempo del equipo — habría implicado un cuarto rol y un desarrollo adicional significativo.
 
 Durante el desarrollo resolví incidencias reales de producción, como un problema de configuración CORS entre el entorno local y el desplegado — documentado y mergeado vía Pull Request para el equipo.
 
@@ -93,3 +95,12 @@ Si "GitHub Stats" (la card de arriba, aparte del streak) también falla, es un s
 (github-stats-extended.vercel.app) y puede caerse de forma independiente. Alternativa:
 https://github-readme-stats.vercel.app/api?username=Camilocostas&show_icons=true&theme=dark
 -->
+
+---
+
+## 🎯 Buscando
+
+- Oportunidades remotas de Full Stack Junior
+- Roles de desarrollo backend
+- Proyectos con Laravel / React
+- Equipos internacionales
